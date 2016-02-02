@@ -1,0 +1,11 @@
+c:\users\mejiacas\documents\visual studio 2015\Projects\MyFirstDataBase\MyFirstDataBase\bin\Debug\MyFirstDataBase.exe.config
+C:\Users\mejiacas\documents\visual studio 2015\Projects\MyFirstDataBase\MyFirstDataBase\bin\Debug\MyFirstDatabase.mdf
+C:\Users\mejiacas\documents\visual studio 2015\Projects\MyFirstDataBase\MyFirstDataBase\bin\Debug\MyFirstDatabase_log.ldf
+C:\Users\mejiacas\documents\visual studio 2015\Projects\MyFirstDataBase\MyFirstDataBase\bin\Debug\MyFirstDataBase.exe
+C:\Users\mejiacas\documents\visual studio 2015\Projects\MyFirstDataBase\MyFirstDataBase\bin\Debug\MyFirstDataBase.pdb
+C:\Users\mejiacas\documents\visual studio 2015\Projects\MyFirstDataBase\MyFirstDataBase\obj\Debug\MyFirstDataBase.csprojResolveAssemblyReference.cache
+C:\Users\mejiacas\documents\visual studio 2015\Projects\MyFirstDataBase\MyFirstDataBase\obj\Debug\MyFirstDataBase.Form1.resources
+C:\Users\mejiacas\documents\visual studio 2015\Projects\MyFirstDataBase\MyFirstDataBase\obj\Debug\MyFirstDataBase.Properties.Resources.resources
+C:\Users\mejiacas\documents\visual studio 2015\Projects\MyFirstDataBase\MyFirstDataBase\obj\Debug\MyFirstDataBase.csproj.GenerateResource.Cache
+C:\Users\mejiacas\documents\visual studio 2015\Projects\MyFirstDataBase\MyFirstDataBase\obj\Debug\MyFirstDataBase.exe
+C:\Users\mejiacas\documents\visual studio 2015\Projects\MyFirstDataBase\MyFirstDataBase\obj\Debug\MyFirstDataBase.pdb
